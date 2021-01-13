@@ -5,6 +5,10 @@ A game I made for the fun of it before school started. Not necessarily my best w
 
 You will be downloading a zip file:
 
+-click on the file "A Tick Tock Game.zip"
+
+-download the zip file
+
 -extract the zip file
 
 -click the extracted file
